@@ -1,0 +1,1 @@
+This is the website to present Painters, a collective that showcases art and creations, and also proposes classes.
